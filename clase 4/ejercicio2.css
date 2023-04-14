@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: yellow;
+    text-transform:uppercase;
+    text-align: center;
+}
+h2{
+    color: blue;
+    font-size: 36px;
+}
+p{
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+}
