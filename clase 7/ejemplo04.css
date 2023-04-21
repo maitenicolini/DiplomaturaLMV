@@ -1,7 +1,11 @@
 .contenedor{
     background-color: gray;
-    /*display:flex; */
-    display: inline-flex ;
+    display: flex;
+    justify-content: start;
+    justify-content: end;
+    justify-content: center;
+    justify-content: space-between;
+}
 .item{
     background-color: blue;
     width: 100px;
