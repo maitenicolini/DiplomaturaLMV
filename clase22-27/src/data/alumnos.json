@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Flavia",
+        "apellido":"Ursino",
+        "edad":41
+    },
+    {
+        "nombre": "Juan",
+        "apellido":"Ursino",
+        "edad":12
+    },
+    {
+        "nombre": "Pedro",
+        "apellido":"Blas",
+        "edad":85
+    },
+    {
+        "nombre": "Maite",
+        "apellido":"Ursino",
+        "edad":22
+    },
+    {
+        "nombre": "Oscar",
+        "apellido":"Perez",
+        "edad":48
+    }
+    ]

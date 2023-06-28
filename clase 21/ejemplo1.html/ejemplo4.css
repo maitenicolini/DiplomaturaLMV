@@ -1,0 +1,21 @@
+.contenedor{
+    display: flex;
+    flex-direction: row;
+}
+.cuadrado{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+.verde{
+    background-color: green;
+  
+}
+.azul{
+    background-color: blue;
+   
+    
+}
+.rojo{
+    background-color: red;
+}
